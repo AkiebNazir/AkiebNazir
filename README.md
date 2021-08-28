@@ -5,6 +5,7 @@ I am about to complete my masters in ECE and developing my skills about data ana
 I have a good experience in python, SQL, Ms-Excel.
 
 Current i am working in a  Govt tele-communication company on contract basis as technical engineer.
+
 ---
 
 🧰 ToolBox
