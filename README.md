@@ -15,7 +15,11 @@ Current i am working in a  Govt tele-communication company on contract basis as 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt = "intellij logo" width = "60" height = "60"/>&nbsp; &nbsp; &nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png" alt = "Ms-office logo" width = "50" height = "50"/>&nbsp; &nbsp; &nbsp;
 <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> &ensp; &ensp; <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/> &ensp; &ensp;
-<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>&ensp; &ensp; <img src ="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt = "R logo" width = "60" height = "60"/>&ensp; &ensp; <img src = "https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt = "sublime logo" width = "60" height = "60" />
+<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>&ensp; &ensp; <img src ="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt = "R logo" width = "60" height = "60"/>&ensp; &ensp; <img src = "https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt = "sublime logo" width = "60" height = "60" />&ensp; &ensp;
+<img src = "https://cdn.worldvectorlogo.com/logos/html-1.svg" alt = "html logo" width = "50" height = "50"/> &ensp; &ensp;
+<img src = "https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt = "javascript logo" width = "50" height = "50"/> &ensp; &ensp;
+<img src = "https://cdn.worldvectorlogo.com/logos/css-3.svg" alt = "CSS logo" width = "60" height = "60"/> 
+
 
 
 
