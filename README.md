@@ -1,10 +1,16 @@
 ### Hi there 👋 I am Akieb Nazir..!
 ---
-I am about to complete my masters in ECE and developing my skills about data analysis and data science.
+I am about to complete my masters in ECE and developing my skills Pyhon, Mysql, Postgresql, Excel etc. and learning new once too JS, HTML, CSS.
 
 I have a good experience in python, SQL, Ms-Excel.
 
 Current i am working in a  Govt tele-communication company on contract basis as technical engineer.
+
+Love to contribut in a open source code.
+
+Love to help any beginner programmmer to develope their skills. 
+
+A job seeker, want a job in the well reputed company in which i can utilize my skills. 
 
 ---
 
