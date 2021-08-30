@@ -34,7 +34,7 @@ A job seeker, want a job in the well reputed company in which i can utilize my s
 
 ---
 📫 How to reach me: ...
-
+Email: shahzada.njasm@gmail.con
 [![Mail Badge](https://img.shields.io/badge/-AkiebNazir-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shahzada.njasm@gmail.com)
 
 
