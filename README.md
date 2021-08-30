@@ -13,6 +13,10 @@ Love to help any beginner programmmer to develope their skills.
 A job seeker, want a job in the well reputed company in which i can utilize my skills. 
 
 ---
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@NjasmAkieb-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NjasmAkieb)](https://twitter.com/NjasmAkieb) [![Linkedin Badge](https://img.shields.io/badge/-AkiebNazir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Njasm-786)
+---
 
 🧰 ToolBox
 
