@@ -18,8 +18,8 @@ A job seeker, want a job in the well reputed company in which i can utilize my s
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@NjasmAkieb-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NjasmAkieb)](https://twitter.com/NjasmAkieb) &ensp; [![Linkedin Badge](https://img.shields.io/badge/-AkiebNazir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Njasm-786) &ensp; [![Mail Badge](https://img.shields.io/badge/-AkiebNazir-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shahzada.njasm@gmail.com)
----
 
+---
 🧰 ToolBox
 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt = "python logo" width = "60" height = "60" />&nbsp; &nbsp; &nbsp; <img src = "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt = "pycharm logo" width = "60" height = "60"/>&nbsp; &nbsp; &nbsp; <img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt = "postgreSql logo" width = "60" height = "60"/>&nbsp; &nbsp; &nbsp;
