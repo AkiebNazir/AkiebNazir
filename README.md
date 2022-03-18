@@ -1,14 +1,18 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I am Akieb Nazir..!
 ---
-I am about to complete my masters in ECE and developing my skills Pyhon, Mysql, Postgresql, Excel etc. and learning new once too JS, HTML, CSS.
+I have completed my Masters in Electronics and Communication in year 2019.
 
-I have a good experience in python, SQL, Ms-Excel.
+Having <strong>2+ years</strong> of experience in Data Management and Data Analysis.
 
-Current i am working in a  Govt tele-communication company on contract basis as technical engineer.
+Data Cleaning, preparing data for analysis, getting insights from the data finding trends in data and using Data virtualization to make better understanding of patterns and trends in data.
 
-My contract base job is about to complete. Looking for help with getting a NEW JOB.
+Current i am working in a Working in an IT company as a Data Analyst.
 
-Love to help any beginner programmmer to develope their skills.
+I love to transform a complex dataset into a clear narrative, to help a client address a challenge by designing a custom methodology, to unlock a deeper or unexpected human insight that helps inspire a creative idea using data.
+
+Always looking for New tools and technologies to make my workflow efficient and modern.
+
+Love to learn new tools and technologies and ready to help any beginner programmmer to develope their skills.
 
 Love to play games and go to gym in my schedule time. 
 
