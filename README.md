@@ -1,22 +1,22 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I am Akieb Nazir..!
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I am <em><strong>Akieb Nazir..!</strong></em>
 ---
-I have completed my Masters in Electronics and Communication in year 2019.
 
-Having <strong>2+ years</strong> of experience in Data Management and Data Analysis.
+Having <strong>2+ years</strong> of experience in Data Management, Data Analysis and Python Developer.
 
 Data Cleaning, preparing data for analysis, getting insights from the data finding trends in data and using Data virtualization to make better understanding of patterns and trends in data.
 
-Current i am working in a Working in an IT company as a Data Analyst.
+Current as a Data Analyst professional.
 
 I love to transform a complex dataset into a clear narrative, to help a client address a challenge by designing a custom methodology, to unlock a deeper or unexpected human insight that helps inspire a creative idea using data.
 
-Always looking for New tools and technologies to make my workflow efficient and modern.
+Always learn New tools and technologies to improve myself and to be upto date.
 
-Love to learn new tools and technologies and ready to help any beginner programmmer to develope their skills.
+Love to help any beginner programmmer or new bies in coding world to develope their skill set.
 
-Love to play games and go to gym in my schedule time. 
+Play games, go to gym and drawing is the time when I come out from my programming world. 
 
-A job seeker, want a job in the well reputed company in which i can utilize my skills. 
+A job seeker, want a job in the well reputed company in which i can utilize my skills
+and grow my self in every aspect. 
 
 ---
 :mailbox: Reach me out!
