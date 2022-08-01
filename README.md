@@ -49,7 +49,7 @@ and grow my self in every aspect.
 
 ---
 📫 How to reach me: ...
- shahzada.njasm@gmail.con
+ shahzada.njasm@gmail.com
 
 [![Mail Badge](https://img.shields.io/badge/-AkiebNazir-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shahzada.njasm@gmail.com)
 
