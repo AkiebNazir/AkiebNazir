@@ -29,8 +29,7 @@ Love to help any beginner programmmer or new bies in coding world to develope th
 
 Play games, go to gym and drawing is the time when I come out from my programming world. 
 
-A job seeker, want a job in the well reputed company in which i can utilize my skills
-and grow my self in every aspect. 
+A working Professional. But open to new oppornities mainly looking for a remote Job. 
 
 ---
 :mailbox: Reach me out!
