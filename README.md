@@ -1,24 +1,27 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I am <em><strong>Akieb Nazir..!</strong></em>
 ---
 
-Having <strong>3+ years</strong> of experience.
+Having <strong>2+ years</strong> of experience in Software Development.
 <ul>
+<li>Software Developement<strong>Python, Go Lang</strong></li>
+<li> Amazon Web Services </li>
+<li>Web Developement<strong>Django, Flask, FastAPI, GinGonic, HTML, CSS</strong></li>
 <li>Database Management(MySQL,PostgreSQL).</li>
 <li>Data Analysis(Python, MS Excel, SQL).</li>
-<li>Web Development(python, html, css, JavaScript, SQL)</li>
 <li>Version Control Using GIT</>
 <li>Operating Systems Worked On</li>
 <ol>
 <li>Windows</li>
 <li>Linux</>
+<li>Unix</>
 </ol>
 </ul>
 
-Data Cleaning, preparing data for analysis, getting insights from the data finding trends in data and using Data virtualization to make better understanding of patterns and trends in data.
+Data helps us understand any business related problem or in general data helps us to Think in more practical way. I always use data to solve any kind of business or logical problems. Data driven architectures are more prominant in current technical world.
 
-Current as a Data Analyst/Python Developer professional.
+Currently working as a software/web/application Developer.
 
-I love to transform a complex dataset into a clear narrative, to help a client address a challenge by designing a custom methodology, to unlock a deeper or unexpected human insight that helps inspire a creative idea using data.
+I love and enjoy solve problem with programming. I love to code and I am always curious about new trends and technologies in my field.
 
 Always learn New tools and technologies to improve myself and to be upto date.
 
