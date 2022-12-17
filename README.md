@@ -3,9 +3,9 @@
 
 Having <strong>2+ years</strong> of experience in Software Development.
 <ul>
-<li>Software Developement<strong>Python, Go Lang</strong></li>
+<li>Software Developement <strong>Python, Go Lang</strong></li>
 <li> Amazon Web Services </li>
-<li>Web Developement<strong>Django, Flask, FastAPI, GinGonic, HTML, CSS</strong></li>
+<li>Web Developement <strong>Django, Flask, FastAPI, GinGonic, HTML, CSS</strong></li>
 <li>Database Management(MySQL,PostgreSQL).</li>
 <li>Data Analysis(Python, MS Excel, SQL).</li>
 <li>Version Control Using GIT</>
